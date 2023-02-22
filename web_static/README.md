@@ -1,1 +1,1 @@
-This directory implements webpage design.
+##The webpage design directory for the AirBnB project
